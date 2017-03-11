@@ -1,3 +1,3 @@
 # povray-experiment
 Experiment with POVRay, a great tool for quick prototype.
-![Example](/../master/Screenshot.png?raw=true)
+![Example](/../master/Screenshot.png)
